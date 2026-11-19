@@ -32,9 +32,15 @@ Procedure
 •	Load voltage 
 ________________________________________
 Observation
+Circuit diagram:
+
+<img width="1173" height="238" alt="ed exp 8 circuit digram" src="https://github.com/user-attachments/assets/4fe99f42-d696-4f6f-a8cb-038b073b41e5" />
+
+Graph :
+
+<img width="1205" height="240" alt="ed exp 8 graph" src="https://github.com/user-attachments/assets/6af331b3-1ded-402a-9a8f-4d445433bed1" />
 
 
-<img width="1530" height="790" alt="ED practical" src="https://github.com/user-attachments/assets/a44c423d-5e32-4837-9715-0df3ab5518db" />
 
 
 1. AC Input Waveform
